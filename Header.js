@@ -9,9 +9,12 @@ return (
 
         <nav>
         <ul>
-            <li><a href="/home">Home</a></li>
-            <li><a href="/about">About Us</a></li>
-            <li><a href="/blog">Blog</a></li>
+            <li><a href="/Main">Home</a></li>
+            <li><a href="/Main">About</a></li>
+            <li><a href="/Main">Menu</a></li>
+            <li><a href="/reservation">Reservation</a></li>
+            <li><a href="/Main">Order Online</a></li>
+            <li><a href="/Main">Long In</a></li>
         </ul>
 
         </nav>

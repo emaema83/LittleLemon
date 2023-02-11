@@ -1,0 +1,252 @@
+.App {
+  color: #000;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  padding-top: 6px;
+  padding-bottom: 31px;
+  font-family: Karla, Arial;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 47px;
+  display: flex;
+}
+
+.flex-container {
+  width: 100%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 1px;
+  margin-left: 25px;
+  display: flex;
+}
+
+ul {
+  color:black;
+  font-weight: bold;
+
+}
+
+nav ul li a:hover{
+
+  color: #f8fc18;
+  font-weight: bold;
+}
+
+.logonav {
+  width: 331px;
+  height: 106px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+}
+
+.home {
+  margin-top: 2px;
+}
+
+.about {
+  margin-top: 1px;
+}
+
+.menu {
+  margin-top: 2px;
+}
+
+.order-online {
+  margin-left: 14px;
+}
+
+.log-in {
+  margin-top: 6px;
+}
+
+
+
+.reserve-a-table {
+  margin-left: 1px;
+}
+
+
+.flex-container-1 {
+  height: 90%;
+  flex-direction: column;
+  flex-basis: 31%;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-top: 21px;
+  font-family: Inter, Arial;
+  font-size: 4rem;
+  line-height: 48px;
+  display: flex;
+}
+
+.flex-container-2 {
+  width: 90%;
+  flex-direction: row;
+  flex-basis: 12%;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-top: 6px;
+  margin-bottom: 6px;
+  margin-left: 5px;
+  font-size: 2rem;
+  line-height: 37px;
+  display: flex;
+}
+
+.logofooter {
+  width: 195px;
+  height: 339px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  margin-right: 78px;
+}
+
+.flex-container-3 {
+  height: 100%;
+  flex-direction: column;
+  justify-content: space-between;
+  align-self: flex-end;
+  align-items: center;
+  margin-top: 10px;
+  margin-left: 26px;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 47px;
+  display: flex;
+}
+
+.log-in-1 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 37px;
+}
+
+.flex-container-5 {
+  height: 65%;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 16px;
+  display: flex;
+}
+
+.contacts {
+  margin-bottom: 11px;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 47px;
+}
+
+
+
+.flex-container-4 {
+  height: 45%;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 14px;
+  margin-right: -1047px;
+  display: flex;
+}
+
+.social-media {
+  margin-bottom: 16px;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 47px;
+}
+.vector {
+  width: 600px;
+  height: 600px;
+  object-fit: cover;
+  margin-top: 31px;
+  margin-left: 2px;
+}
+
+.the-reservation-is-c {
+  margin-left: 7px;
+  font-family: Markazi Text, Arial;
+  font-size: 3.75rem;
+  line-height: 72px;
+}
+
+.we-sent-you-an-email {
+  text-align: center;
+  margin-bottom: 265px;
+  margin-left: 25px;
+}
+.you-can-now-reserve {
+  margin-top: 2px;
+  margin-left: 1px;
+  font-family: Markazi Text, Arial;
+}
+
+.we-are-happy-that-yo {
+  text-align: center;
+  margin-left: 7px;
+  font-size: 2rem;
+  line-height: 37px;
+}
+
+.component-1-instance-1 {
+  width: 30%;
+  flex-basis: 16%;
+  margin-left: 11px;
+}
+
+.reservation-informat {
+  font-family: Markazi Text, Arial;
+}
+
+.form-instance-1 {
+  width: 45%;
+  flex-basis: 19%;
+  margin-left: 34px;
+}
+
+.maximum-12-guests {
+  color: #444;
+  margin-bottom: 82px;
+  font-size: 1.75rem;
+  line-height: 33px;
+}
+
+.your-personal-inform {
+  margin-top: 6px;
+  margin-bottom: 9px;
+  font-family: Markazi Text, Arial;
+}
+
+.name-instance {
+  width: 45%;
+  flex-basis: 4%;
+  margin-top: 1px;
+  margin-left: 38px;
+}
+
+.name-1-instance-1 {
+  width: 45%;
+  flex-basis: 4%;
+  margin-left: 42px;
+}
+
+.email-notification-instance-1 {
+  width: 45%;
+  flex-basis: 7%;
+  margin-bottom: 32px;
+  margin-left: 46px;
+}
+
+.component-11-instance-1 {
+  height: 85%;
+  flex-basis: 62%;
+  margin-top: 3px;
+}
+
